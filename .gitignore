@@ -1,8 +1,4 @@
-.ipynb_checkpoints
-.DS_Store
-__pycache__
-*.db
-*.pytest_cache
-zip-test*
-/zippedData/test-bom-movie_gross.csv.gz
-f
+*.sqlite
+zippedData/
+zippedData/*.csv
+zippedData/*.gz
