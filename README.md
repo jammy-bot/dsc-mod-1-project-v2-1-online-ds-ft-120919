@@ -1,4 +1,5 @@
 # Module 1 Final Project
+[](images/movie.jpg)
 
 ## Introduction
 
