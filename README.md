@@ -1,5 +1,5 @@
 # Module 1 Final Project
-[](images/movie.jpg)
+![arms holding director's clapper board](images/movie.jpg)
 
 ## Introduction
 
