@@ -24,9 +24,9 @@ Project data resources provided for this project included movie-related data fro
 
 # Featured Notebooks/Analysis
 * `student`: **Jupyter Notebook** containing code written for this project and comments explaining it.
-* `movies-q1`:
-* `movies-q2`:
-* `movies-q3`:
+* `movies-q1`: Top Grossing Titles
+* `movies-q2`: Top Performing Studios
+* `movies-q3`: Performance by Genre
 * `movies-data-conditioning`:
 * `movies-clean-transform`:
 
@@ -34,6 +34,7 @@ Project data resources provided for this project included movie-related data fro
 #### Visualizations & EDA
 
 * visualizations, with corresponding interpretations.
+![pairplot matrix of budget, net, and gross data relationships](images/dev_pair.png)
 
 ### Non-Technical Presentation
 
