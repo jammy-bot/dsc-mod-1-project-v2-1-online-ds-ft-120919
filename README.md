@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project focuses on using data concerning recently succesful movie titles. The goal is analysis helpful to the launch of a new studio.
+This project focuses on using data concerning recently successful movie titles. The goal is analysis helpful to the launch of a new studio.
 
 ## Objectives
 
@@ -23,19 +23,18 @@ Project data resources provided for this project included movie-related data fro
 * TheMovieDB.org
 
 # Featured Notebooks/Analysis
-* `student`: **Jupyter Notebook** containing code written for this project and comments explaining it.
-* `movies-q1`: [notebook segment] Top Grossing Titles
-* `movies-q2`: [notebook segment] Top Performing Studios
-* `movies-q3`: [notebook segment] Genre and Studio Genre Mix
-* `movies-data-conditioning`: [notebook segment] Loading the data
-* `movies-clean-transform`: [notebook segment] Preparing data for analysis
+* ![`student`: **Jupyter Notebook**](../blob/master/student.ipynb) `student`: **Jupyter Notebook** containing code written for this project and comments explaining it.
+* ![`movies-q1`](../blob/master/movies-q1.ipynb):  [notebook segment] Top Grossing Titles
+* ![`movies-q2`]../blob/master/(movies-q2.ipynb):  [notebook segment] Top Performing Studios
+* ![`movies-q3`](../blob/master/movies-q3.ipynb):  [notebook segment] Genre and Studio Genre Mix
+* ![movies-data-conditioning](../blob/master/movies-data-conditioning.ipynb):  [notebook segment] Loading the data
+* ![`movies-clean-transform`]:(../blob/master/movies-clean-transform.ipynb)  [notebook segment] Preparing data for analysis
 
 
 #### Visualizations & EDA
 
 * visualizations, with corresponding interpretations are included within the `student` and `q` ("question") notebook(s).
-![]
 
 ### Non-Technical Presentation
 
-* ![presentation.pdf] summarizing  methodology and findings
+* [presentation.pdf](/blob/master/presentation.pdf) summarizing  methodology and findings
