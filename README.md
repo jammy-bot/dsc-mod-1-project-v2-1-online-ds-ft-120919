@@ -23,12 +23,12 @@ Project data resources provided for this project included movie-related data fro
 * TheMovieDB.org
 
 # Featured Notebooks/Analysis
-* ![`student`: **Jupyter Notebook**](../blob/master/student.ipynb) `student`: **Jupyter Notebook** containing code written for this project and comments explaining it.
-* ![`movies-q1`](../blob/master/movies-q1.ipynb):  [notebook segment] Top Grossing Titles
-* ![`movies-q2`]../blob/master/(movies-q2.ipynb):  [notebook segment] Top Performing Studios
-* ![`movies-q3`](../blob/master/movies-q3.ipynb):  [notebook segment] Genre and Studio Genre Mix
-* ![movies-data-conditioning](../blob/master/movies-data-conditioning.ipynb):  [notebook segment] Loading the data
-* ![`movies-clean-transform`]:(../blob/master/movies-clean-transform.ipynb)  [notebook segment] Preparing data for analysis
+* [`student`: **Jupyter Notebook**](../blob/master/student.ipynb) `student`: **Jupyter Notebook** containing code written for this project and comments explaining it.
+* [`movies-q1`](../blob/master/movies-q1.ipynb):  [notebook segment] Top Grossing Titles
+* [`movies-q2`]../blob/master/(movies-q2.ipynb):  [notebook segment] Top Performing Studios
+* [`movies-q3`](../blob/master/movies-q3.ipynb):  [notebook segment] Genre and Studio Genre Mix
+* [movies-data-conditioning](../blob/master/movies-data-conditioning.ipynb):  [notebook segment] Loading the data
+* [`movies-clean-transform`]:(../blob/master/movies-clean-transform.ipynb)  [notebook segment] Preparing data for analysis
 
 
 #### Visualizations & EDA
@@ -37,4 +37,4 @@ Project data resources provided for this project included movie-related data fro
 
 ### Non-Technical Presentation
 
-* [presentation.pdf](/blob/master/presentation.pdf) summarizing  methodology and findings
+* [presentation.pdf](../blob/master/presentation.pdf) summarizing  methodology and findings
