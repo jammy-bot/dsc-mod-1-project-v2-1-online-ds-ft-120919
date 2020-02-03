@@ -3,16 +3,16 @@
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project focuses on using data concerning recently succesful movie titles. The goal is analysis helpful to the launch of a new studio.
 
 ## Objectives
 
 This project explores the following questions and why:
 
-* Lorem ipsum dolor sit amet, consectetur adipisicing elit
-* sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-* Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-* Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+* What are the recent top titles, by gross earnings?
+* Which are the top performing studios? How fluid are their rankings
+* What are the most frequently produced genres? ...The biggest earning?
+* What is the genre mix for top studios?
 
 # The Dataset
 
@@ -24,18 +24,18 @@ Project data resources provided for this project included movie-related data fro
 
 # Featured Notebooks/Analysis
 * `student`: **Jupyter Notebook** containing code written for this project and comments explaining it.
-* `movies-q1`: Top Grossing Titles
-* `movies-q2`: Top Performing Studios
-* `movies-q3`: Performance by Genre
-* `movies-data-conditioning`:
-* `movies-clean-transform`:
+* `movies-q1`: [notebook segment] Top Grossing Titles
+* `movies-q2`: [notebook segment] Top Performing Studios
+* `movies-q3`: [notebook segment] Genre and Studio Genre Mix
+* `movies-data-conditioning`: [notebook segment] Loading the data
+* `movies-clean-transform`: [notebook segment] Preparing data for analysis
 
 
 #### Visualizations & EDA
 
-* visualizations, with corresponding interpretations.
-![pairplot matrix of budget, net, and gross data relationships](images/dev_pair.png)
+* visualizations, with corresponding interpretations are included within the `student` and `q` ("question") notebook(s).
+![]
 
 ### Non-Technical Presentation
 
-* summarizing  methodology and findings
+* ![presentation.pdf] summarizing  methodology and findings
