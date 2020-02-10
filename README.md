@@ -24,8 +24,8 @@ Project data resources were provided for this project in compressed (gunzip), fl
 
 # Featured Notebooks/Analysis
 
-* [`student`: **Jupyter Notebook**](/blob/master/student.ipynb): containing code written for this project and comments explaining it.</summary>
-<p>
+* [`student`: **Jupyter Notebook**](/blob/master/student.ipynb): containing code written for this project and comments explaining it.
+
 * [`movies-q1`](/blob/master/movies-q1.ipynb): [notebook segment] Top Grossing Titles
 * [`movies-q2`](/blob/master/movies-q2.ipynb): [notebook segment] Top Grossing Titles
 * [`movies-q3`](/blob/master/movies-q3.ipynb): [notebook segment] Genre and Studio Genre Mix
