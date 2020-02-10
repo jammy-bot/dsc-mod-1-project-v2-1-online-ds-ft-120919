@@ -27,7 +27,7 @@ Project data resources were provided for this project in compressed (gunzip), fl
 * [`student`: **Jupyter Notebook**](/blob/master/student.ipynb): containing code written for this project and comments explaining it.
 
 * [`movies-q1`](/blob/master/movies-q1.ipynb): [notebook segment] Top Grossing Titles
-* [`movies-q2`](/blob/master/movies-q2.ipynb): [notebook segment] Top Grossing Titles
+* [`movies-q2`](/blob/master/movies-q2.ipynb): [notebook segment] Top Grossing studios
 * [`movies-q3`](/blob/master/movies-q3.ipynb): [notebook segment] Genre and Studio Genre Mix
 * [`movies-data-conditioning`](/blob/master/movies-data-conditioning.ipynb): [notebook segment] Loading the data
 * [`movies-clean-transform`](/blob/master/movies-clean-transform.ipynb): [notebook segment] Preparing data for analysis
