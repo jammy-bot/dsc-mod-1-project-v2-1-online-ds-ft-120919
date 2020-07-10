@@ -16,7 +16,7 @@ This project explores the following questions and why:
 
 # The Dataset
 
-Project data resources were provided for this project in compressed (gunzip), flat files. Resources included movie, studio, and budget-related data:
+Project data resources were provided for this project in compressed (gunzip), flat files from Flatiron School's [Learn.co repository](https://github.com/learn-co-students/dsc-mod-1-project-v2-1-online-ds-ft-120919). Resources represent movie, studio, and budget-related data from the following sources:
 * Box Office Mojo
 * IMDB
 * Rotten Tomatoes
@@ -39,6 +39,9 @@ Project data resources were provided for this project in compressed (gunzip), fl
 ### Non-Technical Presentation
 
 * [presentation.pdf](presentation.pdf) summarizing  methodology and findings
+
+#### Conclusions
+
 
 # Technologies
 * Python
