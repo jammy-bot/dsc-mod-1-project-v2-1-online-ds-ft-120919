@@ -2,3 +2,7 @@
 zippedData/
 zippedData/*.csv
 zippedData/*.gz
+
+# checkpoints
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
