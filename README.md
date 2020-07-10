@@ -46,6 +46,7 @@ Note: Some of the notebook and directory names may have been changed, since this
     - Join SQLite3 tables in Pandas: Plot earnings by genre in the most recent year and over the three most recent years, on a single figure
     - Visualize studio mix: movie count by genre for top - studios
 
+
 * [`movies-data-conditioning`](notebooks/movies-data-conditioning.ipynb): [notebook segment] Loading the data
     - Load and inspect the 11 zipped data files as Pandas dataframes
     - Standardize naming conventions
