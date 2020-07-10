@@ -51,7 +51,7 @@ Note: Some of the notebook and directory names may have been changed, since this
     - Load and inspect the 11 zipped data files as Pandas dataframes
     - Standardize naming conventions
     - Convert to SQLite3 database tables
-    -  Validate conversion in Pandas.
+    - Validate conversion in Pandas
     - Extract and expand genres
     - Drop tables
 
