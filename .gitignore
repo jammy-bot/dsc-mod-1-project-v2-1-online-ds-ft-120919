@@ -3,6 +3,9 @@ zippedData/
 zippedData/*.csv
 zippedData/*.gz
 
+
+dev/
+
 # checkpoints
 .ipynb_checkpoints
 notebooks/.ipynb_checkpoints
