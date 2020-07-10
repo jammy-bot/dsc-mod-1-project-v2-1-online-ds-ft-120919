@@ -24,17 +24,17 @@ Project data resources were provided for this project in compressed (gunzip), fl
 
 # Featured Notebooks/Analysis
 
-* [`student`: **Jupyter Notebook**](student.ipynb): containing code written for this project and comments explaining it.
+* [`making-movies`: **Jupyter Notebook**](making-movies.ipynb): containing code written for this project and comments explaining it.
 
-* [`movies-q1`](movies-q1.ipynb): [notebook segment] Top Grossing Titles
-* [`movies-q2`](movies-q2.ipynb): [notebook segment] Top Grossing studios
-* [`movies-q3`](movies-q3.ipynb): [notebook segment] Genre and Studio Genre Mix
-* [`movies-data-conditioning`](movies-data-conditioning.ipynb): [notebook segment] Loading the data
-* [`movies-clean-transform`](movies-clean-transform.ipynb): [notebook segment] Preparing data for analysis
+* [`movies-q1`](notebooks/movies-q1.ipynb): [notebook segment] Top Grossing Titles
+* [`movies-q2`](notebooks/movies-q2.ipynb): [notebook segment] Top Grossing studios
+* [`movies-q3`](notebooks/movies-q3.ipynb): [notebook segment] Genre and Studio Genre Mix
+* [`movies-data-conditioning`](notebooks/movies-data-conditioning.ipynb): [notebook segment] Loading the data
+* [`movies-clean-transform`](notebooks/movies-clean-transform.ipynb): [notebook segment] Preparing data for analysis
 
 #### Visualizations & EDA
 
-* visualizations, with corresponding interpretations are included within the `student` and `q` ("question") notebook(s).
+* visualizations, with corresponding interpretations are included within the `making-movies` and `q` ("question") notebook(s).
 
 ### Non-Technical Presentation
 
